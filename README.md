@@ -1,4 +1,4 @@
-Document Clustering with Python
+Document Clustering with Python Original Repo from http://brandonrose.org/clustering - Modificaitons for Triumf - AQM Info Sesh done by Haihan
 ================
 
 <img src='header_short.jpg'>
